@@ -1,0 +1,90 @@
+html,body{
+  width:100%;
+  margin:0;
+
+}
+body {
+  background-color:#c9b5ab;
+  padding:0.5rem;
+  box-sizing: border-box;
+  font-family: 'PT Serif', serif;
+  line-height:1.5;
+
+}
+ol,ul {
+  list-style:none;
+  padding: 0;
+ }
+a {
+  color:#8f2440;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: #3f1622;
+}
+img {
+  width:100%;
+}
+h1,h2 {
+  font-family: 'PT Sans', sans-serif;
+}
+h2 {
+  color: #3f1622;
+}
+header h1 {
+  color: #3f1622;
+  font-weight: bold;
+  font-size:1.5rem;
+}
+
+.page-nav a {
+  
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
+}
+
+.page-nav,.hero-figure {
+  margin:0 auto;
+  width:90%;
+}
+.hero-figure figcaption {
+  text-align: center;
+}
+main blockquote {
+  font-size:1.4rem;
+  font-weight: 700;
+
+}
+main cite.big-quote-cite {
+  display: block;
+  font-size:0.8rem;
+  margin-top:1rem;
+  font-weight: normal;
+}
+.section-varieties ol {
+  list-style: lower-greek;
+  padding-left: 40px;
+}
+.nutrition dd {
+  margin: 0;
+}
+.nutrition .nutrition-item {
+  display: block;
+  font-weight: bold;
+}
+.nutrition dd data {
+  padding-left:40px;
+}
+.tags ul {
+  list-style-type: circle;
+  padding-left:40px;
+}
+
+
+
+
+
+
+
+
